@@ -1,0 +1,40 @@
+# =========================================================
+# AI Research Assistant - Requirements
+# =========================================================
+# Auteur  : Grégoire Gueret
+# Projet  : AI Research Assistant
+# Date    : 29 Avril 2026
+# =========================================================
+# Dépendances principales du projet
+# =========================================================
+
+# Interface utilisateur
+streamlit
+
+# API LLM Groq
+groq
+
+# Traitement des flux RSS
+feedparser
+
+# Embeddings et NLP
+sentence-transformers
+
+# Machine Learning
+scikit-learn
+
+# Dépendances utiles et généralement installées
+numpy
+scipy
+torch
+transformers
+huggingface-hub
+
+# =========================================================
+# Installation
+# =========================================================
+# Commande :
+#
+# pip install -r requirements.txt
+#
+# =========================================================

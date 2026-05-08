@@ -1,0 +1,18 @@
+Projet/
+├── app.py
+├── config.py
+├── requirements.txt
+├── README.md
+├── Test1.py
+├── .env
+├── architecture.txt
+│
+├── Fonctions/
+│   ├── fetch_rss.py
+│   ├── preprocess_articles.py
+│   ├── clean_text.py
+│   ├── filter_articles.py
+│   ├── prepare_for_llm.py
+│   ├── llm.py
+│   ├── send_email.py
+│   └── category_router.py
